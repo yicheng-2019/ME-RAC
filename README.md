@@ -63,7 +63,7 @@ Please read [CONTRIBUTING.md](#) for details on our code of conduct, and the pro
 
 ## Authors 关于作者
 
-* **WangYan** - *Initial work* - [WangYan](https://wangyan.org)
+* **Yicheng Qiu** - *Initial work* - [github](https://github.com/yicheng-2019)
 
 查看更多关于这个项目的贡献者，请阅读 [contributors](#) 
 
