@@ -22,5 +22,4 @@ Here is the implementation for paper "Multi-path 3D-Conv Encoder and Temporal Se
 * **Yicheng Qiu** - *Initial work* - [github](https://github.com/yicheng-2019)
 
 ## License 
-
-这个项目 MIT 协议， 请点击 [LICENSE](LICENSE) 了解更多细节。
+This project is licensed under the MIT License, please click [LICENSE](LICENSE) for more details.
