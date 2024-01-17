@@ -2,7 +2,7 @@
 
 > 简单描述这个项目是什么。
 
-；[![NPM Version][npm-image]][npm-url]
+<!--[![NPM Version][npm-image]][npm-url]-->
 ；[![Build Status][travis-image]][travis-url]
 ；[![Downloads Stats][npm-downloads]][npm-url]
 
