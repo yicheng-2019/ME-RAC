@@ -3,10 +3,10 @@
 > 简单描述这个项目是什么。
 
 <!--[![NPM Version][npm-image]][npm-url]-->
-；[![Build Status][travis-image]][travis-url]
-；[![Downloads Stats][npm-downloads]][npm-url]
+<!--[![Build Status][travis-image]][travis-url]-->
+<!--[![Downloads Stats][npm-downloads]][npm-url]-->
 
-用一两段话介绍这个项目以及它能做些什么。
+Here is the implementation for paper "Multi-path 3D-Conv Encoder and Temporal Sequence Decision for Repetitive Actions Counting"
 
 ![](https://github.com/dbader/readme-template/raw/master/header.png)
 
