@@ -1,7 +1,5 @@
 # ME-RAC: Multi-path 3D-Conv Encoder and Temporal Sequence Decision for Repetitive Actions Counting
 
-> 简单描述这个项目是什么。
-
 <!--[![NPM Version][npm-image]][npm-url]-->
 <!--[![Build Status][travis-image]][travis-url]-->
 <!--[![Downloads Stats][npm-downloads]][npm-url]-->
