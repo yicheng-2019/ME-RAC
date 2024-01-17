@@ -4,7 +4,7 @@
 <!--[![Build Status][travis-image]][travis-url]-->
 <!--[![Downloads Stats][npm-downloads]][npm-url]-->
 
-Here is the implementation for paper "Multi-path 3D-Conv Encoder and Temporal Sequence Decision for Repetitive Actions Counting"
+This repository is the implementation for paper "Multi-path 3D-Conv Encoder and Temporal Sequence Decision for Repetitive Actions Counting"
 
 
 ### Installation 
