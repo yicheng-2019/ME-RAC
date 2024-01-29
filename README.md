@@ -27,5 +27,5 @@ python test.py
 This project is licensed under the Apache 2.0 License, please click [LICENSE](LICENSE) for more details.
 
 ## Reference
-[https://github.com/SvipRepetitionCounting/TransRAC](https://github.com/SvipRepetitionCounting/TransRAC)
+[https://github.com/SvipRepetitionCounting/TransRAC](https://github.com/SvipRepetitionCounting/TransRAC)  
 [https://github.com/open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2)
