@@ -8,15 +8,19 @@ This repository is the implementation for paper "Multi-path 3D-Conv Encoder and 
 
 
 ### Installation 
-Please refer to install.md for setup.
+Please refer to [install.md](install.md) for setup.
 
-## Release History 
+## Test
+```
+python test.py
+``` 
 
-* 0.1.0
-    * Work in progress
+### Model Zoo
+|  Method   | Training Dataset | CheckPoint |  MAE  | OBO |
+|  :---: | :-----: |   :---------------------------:            | :---: | :---: |
+| ME-RAC  | [RepCount-A](https://svip-lab.github.io/dataset/RepCount_dataset.html) | Coming Soon... | 0.3529 | 0.4018 |
 
 ## Authors 
-
 * **Yicheng Qiu** - *Initial work* - [github](https://github.com/yicheng-2019)
 
 ## License 
