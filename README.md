@@ -21,7 +21,11 @@ python test.py
 | ME-RAC  | [RepCount-A](https://svip-lab.github.io/dataset/RepCount_dataset.html) | Coming Soon... | 0.3529 | 0.4018 |
 
 ## Authors 
-* **Yicheng Qiu** - *Initial work* - [github](https://github.com/yicheng-2019)
+* **Yicheng Qiu**  - [github](https://github.com/yicheng-2019)
 
 ## License 
 This project is licensed under the Apache 2.0 License, please click [LICENSE](LICENSE) for more details.
+
+## Reference
+[https://github.com/SvipRepetitionCounting/TransRAC](https://github.com/SvipRepetitionCounting/TransRAC)
+[https://github.com/open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2)
