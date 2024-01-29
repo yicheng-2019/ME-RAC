@@ -8,7 +8,7 @@ This repository is the implementation for paper "Multi-path 3D-Conv Encoder and 
 
 
 ### Installation 
-
+Please refer to install.md for setup.
 
 ## Release History 
 
@@ -20,4 +20,4 @@ This repository is the implementation for paper "Multi-path 3D-Conv Encoder and 
 * **Yicheng Qiu** - *Initial work* - [github](https://github.com/yicheng-2019)
 
 ## License 
-This project is licensed under the MIT License, please click [LICENSE](LICENSE) for more details.
+This project is licensed under the Apache 2.0 License, please click [LICENSE](LICENSE) for more details.

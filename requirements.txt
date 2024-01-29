@@ -26,6 +26,6 @@ sympy==1.8
 tensorboardX==2.5
 tensorrt==0.0.1
 timm==0.4.12
-torch==1.7.0+cu110
+torch==1.10.1+cu113
 torchvision==0.8.0
 tqdm==4.59.0

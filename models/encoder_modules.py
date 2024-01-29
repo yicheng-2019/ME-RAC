@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from base_modules import attention, PositionalEncoding
+from models.base_modules import attention, PositionalEncoding
 
 
 class Similarity_matrix(nn.Module):
