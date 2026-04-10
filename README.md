@@ -6,10 +6,6 @@
 >
 > *Expert Systems with Applications*, 2024 &nbsp;|&nbsp; [Paper](https://doi.org/10.1016/j.eswa.2024.123760)
 
-<p align="center">
-  <img src="./assets/ME-RAC.jpg" width="90%">
-</p>
-
 ## Introduction
 
 ME-RAC is built upon [TransRAC](https://github.com/SvipRepetitionCounting/TransRAC) and introduces three contributions for repetitive-action counting:
