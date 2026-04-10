@@ -14,17 +14,6 @@ ME-RAC is built upon [TransRAC](https://github.com/SvipRepetitionCounting/TransR
 - **TSRC** — Temporal-Sequence Random Combination data augmentation that recombines action segments to prevent overfitting.
 - **TSD** — A two-stage Temporal-Sequence Decision framework combining YOLOv5 detection with ME-RAC counting for long video scenarios.
 
-## Results
-
-### RepCount-A & UCFRep (Table 2)
-
-| Method | RepCount-A MAE↓ | RepCount-A OBO↑ | UCFRep MAE↓ | UCFRep OBO↑ |
-|--------|:---:|:---:|:---:|:---:|
-| X3D | 0.0560 | 0.1709 | 0.0991 | 0.1053 |
-| TransRAC | 0.4437 | 0.2913 | 0.5940 | 0.0956 |
-| RepNet | 0.9950 | 0.0131 | 0.9985 | 0.0094 |
-| **ME-RAC (Ours)** | **0.4135** | **0.3046** | **0.5700** | **0.1161** |
-
 ## Getting Started
 
 ### Requirements
